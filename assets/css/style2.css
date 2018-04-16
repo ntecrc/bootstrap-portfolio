@@ -1,0 +1,11 @@
+body #header {
+    min-height: 20vh;
+}
+
+body #article {
+    min-height: 60vh;
+}
+
+body #footer {
+    min-height: 20vh;
+}
