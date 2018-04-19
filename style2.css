@@ -1,0 +1,66 @@
+/* body #header {
+    min-height: 20vh;
+*/
+#body-article {
+    min-height: 60vh;
+}
+
+#colored-header {
+    border-bottom: 5px solid #cccccc !important;
+    min-height: 20vh;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    padding-top: 80px;
+    
+}
+#colored-footer {
+    border-top: 5px solid #4aaaa5 !important;
+    min-height: 20vh;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+
+/* navbar css */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: #777777;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+
+
+/* footer for all pages from previous assignment
+footer {
+    clear: both;
+    bottom: 0px;
+    text-align: center;
+    background: #666666;
+    height: 100px;
+    margin: 0px auto;
+    border-top: 5px solid #4aaaa5;
+    width: 100%;
+    
+} */
+
+
