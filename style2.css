@@ -64,7 +64,7 @@ ul {
 
 /*testing out different filters to add something cool*/
 .blur {-webkit-filter: blur(4px);filter: blur(4px);}
-.brightness {-webkit-filter: brightness(250%);filter: brightness(250%);}
+/* .brightness {-webkit-filter: brightness(250%);filter: brightness(250%);} */
 .contrast {-webkit-filter: contrast(180%);filter: contrast(180%);}
 .grayscale {-webkit-filter: grayscale(100%);filter: grayscale(100%);}
 .huerotate {-webkit-filter: hue-rotate(180deg);filter: hue-rotate(180deg);}
